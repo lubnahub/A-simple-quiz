@@ -51,7 +51,7 @@
       "answer": 2
     },
     {
-      "question": "Who sends Aunt Petunia the Howler?",
+      "question": "Who sends Aunt Petunia the Howler's?",
       "choice1": "Prof. Snape",
       "choice2": "Dumbledore",
       "choice3": "Molly Weasley",
@@ -113,7 +113,7 @@
       "choice3": "A water beetle",
       "choice4": "A frog",
       "answer": 3
-    }
+    },
     {
       "question": "Where can Voldemort not harm Harry Potter?",
       "choice1": "The Dursleys",
