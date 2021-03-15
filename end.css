@@ -1,0 +1,31 @@
+body {
+    /*background-image: url("/quiz/background.jpg");*/
+    background-color:white;
+    /*background-position: center center; 
+    background-repeat: no-repeat;*/
+    background-size: cover;
+    height: 100vh;
+    margin: 50px;
+    margin-right: 3rem;
+    margin-left: 3rem;
+   }
+   .container {
+    font-family: 'BluuNextBold';
+    font-weight: bold;
+    font-style: bold;
+   }
+h1{
+    font-size: 30px !important;
+    color: #514A92 !important;
+}
+
+.button{
+    width:250px  !important; 
+    height:40px  !important; 
+    background-color:#514A92  !important;
+    color:white  !important; 
+    margin-bottom:10px  !important;
+    font-family: 'BluuNextBold'  !important;
+    font-weight: bold  !important;
+    font-style: bold  !important;
+}

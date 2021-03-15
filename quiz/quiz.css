@@ -1,0 +1,79 @@
+body {
+    /*background-image: url("/quiz/background.jpg");*/
+    background-color:white;
+    /*background-position: center center; 
+    background-repeat: no-repeat;*/
+    background-size: cover;
+    height: 100vh;
+    margin: 50px;
+    margin-right: 3rem;
+    margin-left: 3rem;
+   }
+   .container {
+    font-family: 'BluuNextBold';
+    font-weight: bold;
+    font-style: bold;
+}
+.game:hover{
+    cursor: pointer;
+
+}
+
+
+.choice-container {
+    display: flex;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    font-size: 1.2rem;
+    border: 0.1rem solid #514A92;
+    background-color: white;
+  }
+  
+  .choice-container:hover {
+    cursor: pointer;
+    /*box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);*/
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+  }
+  .choice-text {
+    padding:10px;
+    width: 100%;
+  }
+  
+  .correct {
+    background-color:#514A92;
+    color:white;
+  }
+  
+  .incorrect {
+    background-color: #dc3545;
+    color:white;
+  }
+
+#hud{
+  display:flex;
+  justify-content: space-between;
+}
+
+.hud-main-text{
+  color:#514A92;
+  font-size: xx-large;
+}
+
+#loader {
+  border: 1.0rem solid peachpuff;
+  border-radius: 50%;
+  border-top: 1.0rem solid #514A92;
+  width: 5rem;
+  height: 5rem;
+  animation: spin 1.5s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

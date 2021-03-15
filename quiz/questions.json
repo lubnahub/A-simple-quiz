@@ -1,0 +1,45 @@
+[
+    {
+      "question": "What is the one place you cannot apparate at?",
+      "choice1": "Hogsmeade",
+      "choice2": "Grimauld's Palace",
+      "choice3": "Azkaban",
+      "choice4": "Hogwarts",
+      "answer": 4
+    },
+    {
+      "question":
+        "Who smashes the knot on the whomping willow that leads to a secret passageway?",
+      "choice1": "Harry",
+      "choice2": "Remus",
+      "choice3": "Crookshanks",
+      "choice4": "Padfoot",
+      "answer": 3
+    },
+    {
+      "question":
+        "Which of these Dumbledoor's office passwords Harry accidently guesses?",
+      "choice1": "Sherbet Lemon",
+      "choice2": "Cockroach cluster",
+      "choice3": "Fizzing Whizbee ",
+      "choice4": "Acid pops",
+      "answer": 2
+    },
+    {
+      "question":
+        "What does Romilda Vane spike with a love potion?",
+      "choice1": "Chocolate Cauldrons",
+      "choice2": "Butterbeer",
+      "choice3": "Pudding",
+      "choice4": "Pumpkin Juice",
+      "answer": 1
+    },
+    {
+      "question": "Who gets Harry Potter Gillyweed?",
+      "choice1": "Sirius Black",
+      "choice2": "Neville Longbottom",
+      "choice3": "Dobby the house elf",
+      "choice4": "Professor Moody",
+      "answer": 3
+    }
+  ]

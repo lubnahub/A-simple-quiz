@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hogwarts Quiz</title>
+    <link rel='stylesheet' type='text/css' href='quiz.css'>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.css">
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/bluu" type="text/css"/>
+    
+</head>
+<body>
+    <div class="container">
+
+    
+    <section class="hero">
+        <div class="hero-body">
+          <div class="container">
+          </div>
+        </div>
+    </section>
+   
+        <div class="container">
+ 
+            <div class="columns is-mobile">
+                <div class="column"></div>
+                
+                <div class="column column is-three-quarters-mobile is-half-tablet is-half-desktop is-half-widescreen is-half-fullhd" id="maincol">
+                    <!--<div class="load" id="loader"></div>-->
+                    <div class="game">
+                        <div id="hud">
+                            <div id="hud-item">
+                                <p class="hud-prefix">
+                                    Question
+                                </p>
+                                <h1 class="hud-main-text" id="questionCounter">
+                                
+                                </h1>
+                            </div>
+                            <div id="hud-item">
+                                <p class="hud-prefix">
+                                   Score 
+                                </p>
+                                <h1 class="hud-main-text" id="score">
+                                    0
+                                </h1>
+                            </div>
+                        </div> <br>
+                        <h1 id="question" style="font-size:1.5rem; color:black;"></h1> <br>
+                        <div class="choice-container">
+                            <p class="choice-text" data-number="1"></p>
+                          </div>
+                          <div class="choice-container">
+                            <p class="choice-text" data-number="2"> </p>
+                          </div>
+                          <div class="choice-container">
+                           
+                            <p class="choice-text" data-number="3"> </p>
+                          </div>
+                          <div class="choice-container">
+        
+                            <p class="choice-text" data-number="4"></p>
+                          </div>
+                    
+                        <!--<div class="choice-container">
+                            <div class="box choice-text" data-number="1">
+                            A. Option A
+                            </div>
+                        </div> <br>
+                        <div class="choice-container">
+                            <div class="box choice-text" data-number="2">
+                                B. Option B
+                            </div>
+                        </div><br>
+                        <div class="choice-container">
+                            <div class="box choice-text" data-number="3">
+                                C. Option C
+                            </div>
+                        </div><br>
+                        <div class="choice-container">
+                            <div class="box choice-text" data-number="4">
+                                D. Option D
+                            </div>
+                        </div>-->
+                    </div>
+
+                </div>
+                <div class="column"></div>
+            </div>
+        </div>   
+   </section>
+   <script src="quiz.js"></script>
+</div>
+</body>
+</html>
