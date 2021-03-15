@@ -32,7 +32,7 @@ else if(finalScore.innerHTML<=120)
 {
     text2.innerHTML="Congratulations! That was awesome.";
 }
-else if(finalScore.innerHTML<=140)
+else if(finalScore.innerHTML<=150)
 {
     text2.innerHTML="Congratulations! What a nerd!";
 }
