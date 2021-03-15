@@ -14,11 +14,15 @@ body {
     font-weight: bold;
     font-style: bold;
 }
-.game:hover{
+/*.game:hover{
     cursor: pointer;
 
-}
+}*/
 
+#praises{
+  text-align: center;
+  font-size: 20px;
+}
 
 .choice-container {
     display: flex;
