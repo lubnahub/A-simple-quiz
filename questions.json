@@ -18,7 +18,7 @@
     },
     {
       "question":
-        "Which of these Dumbledoor's office passwords Harry accidently guesses?",
+        "Which of these Dumbledoor's office passwords does Harry accidently guess?",
       "choice1": "Sherbet Lemon",
       "choice2": "Cockroach cluster",
       "choice3": "Fizzing Whizbee ",
@@ -41,5 +41,87 @@
       "choice3": "Dobby the house elf",
       "choice4": "Professor Moody",
       "answer": 3
+    },
+    {
+      "question": "Where does Rita Skeeter get her information on Dumbledore?",
+      "choice1": "Aunt Muriel",
+      "choice2": "Bathilda Bagshot",
+      "choice3": "Hermione Granger",
+      "choice4": "Snape",
+      "answer": 2
+    },
+    {
+      "question": "Who sends Aunt Petunia the Howler?",
+      "choice1": "Prof. Snape",
+      "choice2": "Dumbledore",
+      "choice3": "Molly Weasley",
+      "choice4": "Mad Eye Moody",
+      "answer": 2
+    },
+    {
+      "question": "Which among the following wizards does winky despise?",
+      "choice1": "Harry Potter",
+      "choice2": "Albus Dumbledore",
+      "choice3": "Ludo Bagman",
+      "choice4": "Barty Crouch Jr.",
+      "answer": 3
+    },
+    {
+      "question": "What is Ariana Dumbledore rumored to be?",
+      "choice1": "A squib",
+      "choice2": "A murderer",
+      "choice3": "A wizard",
+      "choice4": "An Obscurial",
+      "answer": 4
+    },
+    {
+      "question": "Who is Dumbledore rumoured to be in love with?",
+      "choice1": "Grindelwald",
+      "choice2": "Bathilda Bagshot",
+      "choice3": "Gregorovitch",
+      "choice4": "Snape",
+      "answer": 1
+    },
+    {
+      "question": "Who did Aunt Muriel say looked like an `omelette`?",
+      "choice1": "Fred Weasly",
+      "choice2": "Bathilda Bagshot",
+      "choice3": "Xenophilius Lovegood",
+      "choice4": "Ronald",
+      "answer": 3
+    },
+    {
+      "question": "Whose death does Professor Trelawney correctly predict at the Christmas dinner?",
+      "choice1": "Harry Potter",
+      "choice2": "Dumbledore",
+      "choice3": "Peter Pettigrew",
+      "choice4": "Minerva McGonagall",
+      "answer": 2
+    },
+    {
+      "question": "What house is Nymphadora tonks in?",
+      "choice1": "Gryffindor",
+      "choice2": "Hufflepuff",
+      "choice3": "Ravenclaw",
+      "choice4": "SLytherin",
+      "answer": 2
+    },
+    {
+      "question": "What Animagus can Rita Skater transform into?",
+      "choice1": "A dog",
+      "choice2": "A mosquito",
+      "choice3": "A water beetle",
+      "choice4": "A frog",
+      "answer": 3
     }
+    {
+      "question": "Where can Voldemort not harm Harry Potter?",
+      "choice1": "The Dursleys",
+      "choice2": "Hogsmeade",
+      "choice3": "Diagon Alley",
+      "choice4": "London",
+      "answer": 3
+    }
+    
+  
   ]
